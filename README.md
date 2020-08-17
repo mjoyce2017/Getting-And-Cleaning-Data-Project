@@ -8,4 +8,6 @@ This document should help visitors understand what each file does for the projec
 
 **run_analysis.R**  *the script used to create the new tidy data set*
 
+**tidy.txt** *the new tidy data set*
+
 **tidy.csv** *the new tidy data set*
