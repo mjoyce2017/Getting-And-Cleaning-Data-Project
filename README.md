@@ -4,7 +4,7 @@ This document should help visitors understand what each file does for the projec
 
 **ReadME.md**   *what you are reading now*
 
-**codeBook.md** *description of the data and the transformations used to create the new tidy data set*
+**CodeBook.md** *description of the data and the transformations used to create the new tidy data set*
 
 **run_analysis.R**  *the script used to create the new tidy data set*
 
